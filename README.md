@@ -2,6 +2,10 @@
 
 iOS Development Certificates
 
+## New Certificates
+for new certificates archive your project using below bundle id and then change the bundle id of exported ipa file
+BundleID -> com.iapps.exportapp
+
 ## FAQ
 
 **Q**: How to remove old certificates?
@@ -9,11 +13,3 @@ iOS Development Certificates
 **A**: Simple! Take a look at [here](https://stackoverflow.com/q/26732251/4565015).
 
 ---
-
-**Q**: Is there any video about how to do it?
-
-**A**: Yep! You can find it [here](https://www.aparat.com/v/r7Ecu).
-
-## Acknowledgements
-
-With special thanks to [@RaziPour1993](https://github.com/RaziPour1993)
