@@ -6,7 +6,7 @@ iOS Development Certificates
 
 For new certificates archive your project using below bundle id and then change the bundle id of exported `.ipa` file:
 
-`BundleID -> com.iapps.export`
+`BundleID -> iapps.export`
 
 ## FAQ
 
