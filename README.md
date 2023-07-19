@@ -2,6 +2,10 @@
 
 iOS Development Certificates
 
+## UPDATE
+
+unfortunately because of some legal implications we can not provide certificates anymore . 
+
 ## New Certificates
 
 For new certificates archive your project using below bundle id and then change the bundle id of exported `.ipa` file:
