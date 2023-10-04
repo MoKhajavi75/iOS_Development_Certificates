@@ -3,8 +3,9 @@
 iOS Development Certificates
 
 ## UPDATE
-
-unfortunately because of some legal implications we can not provide certificates anymore . 
+Reach out to me via email for updated certificates,
+unfortunately because of some legal implications we can not provide certificates publicaly anymore . 
+Email: mahadshahib@gmail.com
 
 ## New Certificates
 
