@@ -1,17 +1,17 @@
 # iOS_Development_Certificates
 
-iOS Development Certificates
 
-## UPDATE
-Reach out to me via email for updated certificates,
-unfortunately because of some legal implications we can not provide certificates publicaly anymore . 
-Email: mahadshahib@gmail.com
 
-## New Certificates
+## NEW METHOD - Export app
 
-For new certificates archive your project using below bundle id and then change the bundle id of exported `.ipa` file:
+forget about certificates, use Sibapp_Export.app to export your Xcode archives easily and without any effort.
+1 - download the app located in the main directory of this repository 
+2 - run it
+3 - select your Xcode archive (which you should archive your app normally with your code with your bundle id and Apple ID)
+4 - select export and you are ready to go. thank us later
 
-`BundleID -> iapps.export`
+
+## OLD METHOD - iOS Development Certificates
 
 ## FAQ
 
