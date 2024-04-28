@@ -11,7 +11,7 @@ forget about certificates, use Sibapp_Export.app to export your Xcode archives e
 4 - select export and you are ready to go. thank us later
 
 
-## OLD METHOD - iOS Development Certificates
+## OLD METHOD - iOS Development Certificates - EXPIRED (for tutorial only)
 
 ## FAQ
 
